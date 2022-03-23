@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"be brave untill grave" -kanishkar
 Use the left arrow to go back!
